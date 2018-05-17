@@ -1,2 +1,3 @@
 # Configure
 configure files to translate
+To record the configure files like .vimrc、YCM、Tmux，and soon......
